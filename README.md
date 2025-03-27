@@ -46,6 +46,9 @@ This project originated as part of **🏅 Mined Hackathon 2025** organized by **
   - Enhance summarization with domain-specific training.
   - Improve the design of generated slides for better aesthetics.
 
+## Demo Video of the project
+https://github.com/user-attachments/assets/8c495dd9-5570-428d-afa9-7b819e32b666
+
 ## 🔧 Installation
 1. Clone this repository:
    ```bash
