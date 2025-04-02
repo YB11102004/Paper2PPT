@@ -71,11 +71,8 @@ https://github.com/user-attachments/assets/8c495dd9-5570-428d-afa9-7b819e32b666
 
 💾 Save or export the final presentation.
 
-🤝 Contributions
+## 🤝 Contributions
 Contributions are welcome! Feel free to fork this repository and submit a pull request.
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
-
-📧 Contact
-This version highlights the dual capability of generating both formal and informal presentations.
