@@ -19,7 +19,7 @@ This project originated as part of **🏅 Mined Hackathon 2025** organized by **
 - **Libraries Used**:
   - 📂 `PyPDF2` / `pdfplumber`: For PDF text extraction
   - 📖 `NLTK` / `spaCy`: For natural language processing
-  - 🤖 `transformers`: For summarization models (e.g., BART, T5)
+  - 🤖 `transformers`: For summarization models
   - 📊 `python-pptx`: For creating PowerPoint slides
   - 🖼️ `opencv` / `Pillow`: For image extraction and processing
 - **Machine Learning Models**: Pre-trained NLP models for text summarization and keyword extraction.
